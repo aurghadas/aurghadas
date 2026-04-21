@@ -37,7 +37,7 @@
 -->
 
 ## 📊 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurghadas&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurghadas&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurghadas&theme=github_dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
