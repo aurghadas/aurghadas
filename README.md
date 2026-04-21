@@ -15,6 +15,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aurghadas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.shion.dev/api?username=aurghadas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aurghadas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aurghadas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=aurghadas&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -35,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
