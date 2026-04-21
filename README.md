@@ -1,10 +1,10 @@
-##👋 Hi, I'm, Aurgha!
+## 👋 Hi, I'm, Aurgha!
 
-👩🏻‍💻 Software Engineering student sharing about my journey and learnings in tech
-👩🏻‍🎓 Studying Software Engineering at the University of Guelph, Canada
-💭 Currently learning about Testing automation and web development!
+👩🏻‍💻 Software Engineering student sharing about my journey and learnings in tech <br>
+👩🏻‍🎓 Studying Software Engineering at the University of Guelph, Canada <br>
+💭 Currently learning about Testing automation and web development! <br>
 
-![Aurgha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurghadas&show_icons=true&theme=radical)
+![Aurgha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurghadas&show_icons=true&theme=radical) <br>
 
 <!--
 **aurghadas/aurghadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
