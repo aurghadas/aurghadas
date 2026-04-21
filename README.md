@@ -36,8 +36,8 @@
 [![](https://komarev.com/ghpvc/?username=aurghadas&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
-## 🔥 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=aurghadas&theme=tokyo-night)
+## 🐍 Contribution Snake
+![snake gif](https://github.com/aurghadas/aurghadas/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
