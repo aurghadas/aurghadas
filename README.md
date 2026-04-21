@@ -36,9 +36,8 @@
 [![](https://komarev.com/ghpvc/?username=aurghadas&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
-## 📊 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurghadas&theme=tokyonight)
-
+## 📊 Profile Summary## 📊 Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurghadas&theme=github_dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
