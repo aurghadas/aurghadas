@@ -37,7 +37,7 @@
 -->
 
 ## 📊 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurghadas&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurghadas&theme=dracula)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
