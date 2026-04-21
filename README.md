@@ -36,8 +36,8 @@
 [![](https://komarev.com/ghpvc/?username=aurghadas&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/aurghadas/aurghadas/blob/output/github-snake-dark.svg)
+## 📊 Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurghadas&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
