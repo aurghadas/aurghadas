@@ -1,4 +1,4 @@
-## 👋 Hi, I'm, Aurgha!
+## 👋 Hi, I'm Aurgha!
 
 👩🏻‍💻 Software Engineering student sharing about my journey and learnings in tech <br>
 👩🏻‍🎓 Studying Software Engineering at the University of Guelph, Canada <br>
